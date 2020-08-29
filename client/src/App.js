@@ -21,8 +21,8 @@ function App() {
             <Route exact path="/" component={Index} />
             <Route exact path="/Portfolio" component={Portfolio} />
             <Route exact path="/Contact" component={Contact} />
+            < br />
           </Wrapper>
-          <br />
           <br />
           <Footer />
         </div>
