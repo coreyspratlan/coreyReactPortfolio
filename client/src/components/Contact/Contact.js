@@ -79,6 +79,8 @@ function Contact() {
                             </div>
 
                         </div>
+                        <div className="col-md-1"></div>
+
 
                     </div>
                 </div>
