@@ -22,6 +22,7 @@ function App() {
             <Route exact path="/Portfolio" component={Portfolio} />
             <Route exact path="/Contact" component={Contact} />
           </Wrapper>
+          <br />
           <Footer />
         </div>
       </Router>
