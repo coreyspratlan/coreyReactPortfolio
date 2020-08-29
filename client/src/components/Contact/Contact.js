@@ -51,7 +51,7 @@ function Contact() {
 
                         <div>
                             <h3 className="text-center">Linkedin Profile</h3>
-                            <div className="col-md-4">
+                            <div>
                                 <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal"
                                     data-theme="dark" data-vanity="corey-spratlan-3849731a5" >
                                     <a class="LI-simple-link" href='https://www.linkedin.com/in/corey-spratlan-3849731a5?trk=profile-badge'>
@@ -63,7 +63,7 @@ function Contact() {
 
                         <div>
                             <h3 className="text-center">Git Hub</h3>
-                            <div className="col-md-4">
+                            <div>
                                 <a href="https://github.com/coreyspratlan" target="blank"><img src="./images/GitHub.png"
                                     alt="Link to GitHub" style={{ "width": "400px", "height": "215px" }} /></a>
                             </div>
