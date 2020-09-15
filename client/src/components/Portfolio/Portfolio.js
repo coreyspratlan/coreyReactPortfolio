@@ -51,7 +51,7 @@ function Portfolio() {
             </div>
             <div className="col-md-3 text-center">
                 <h3 className="header">Project 3</h3>
-                <p><a href="https://pocketdiy.herokuapp.com/" target="blank"><img className="img-fluid" src=" " alt="pocket diy" style={imageStyle} /></a></p>
+                <p><a href="https://pocketdiy.herokuapp.com/" target="blank"><img className="img-fluid" src="./images/PocketDIY.png" alt="pocket diy" style={imageStyle} /></a></p>
                 <p><a href="https://github.com/coreyspratlan/PocketDIY" target="blank">GitHub: PocketDIY</a></p>
             </div>
 
